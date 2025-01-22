@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 Challenge 1H - Landing Page
+Un défi de reproduction de maquette réalisé en 1 heure chrono ! Cette landing page moderne a été développée avec Next.js 14 et Tailwind CSS, mettant en avant une structure de code propre et maintenable.
+🎯 Le Défi
 
-## Getting Started
+⏱️ Temps imparti : 1 heure
+🎨 Objectif : Reproduire fidèlement une maquette
+📱 Responsive design
+✨ Animations et transitions fluides
 
-First, run the development server:
+🛠️ Technologies Utilisées
 
-```bash
+Next.js 14 - Framework React
+Tailwind CSS - Framework CSS utilitaire
+TypeScript - Typage statique
+React - Bibliothèque UI
+
+🚀 Démarrage Rapide
+bashCopy# Cloner le projet
+git clone https://github.com/votre-username/challenge-1h-landing.git
+
+# Installer les dépendances
+cd challenge-1h-landing
+npm install
+
+# Lancer le serveur de développement
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Le site sera accessible à l'adresse http://localhost:3000
+📁 Structure du Projet
+Copysrc/
+  ├── app/
+  │   └── page.tsx
+  ├── components/
+  │   ├── layout/
+  │   │   ├── Header.tsx
+  │   │   └── Navigation.tsx
+  │   ├── home/
+  │   │   ├── HeroSection.tsx
+  │   │   ├── HeroTestimonials.tsx
+  │   │   └── HeroCTA.tsx
+  │   └── ui/
+  │       └── Button.tsx
+🌟 Fonctionnalités
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✨ Design moderne et épuré
+🔄 Transitions fluides
+💫 Animations au hover
+📱 Interface responsive
+🎨 Dégradés et effets visuels
+🔍 Code optimisé et maintenable
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🎨 Aperçu
+[Insérez une capture d'écran de votre site ici]
+🔧 Scripts Disponibles
+bashCopynpm run dev      # Lance le serveur de développement
+npm run build    # Compile le projet pour la production
+npm run start    # Lance la version de production
+npm run lint     # Vérifie le code avec ESLint
+📝 Notes
+Ce projet a été réalisé dans le cadre d'un défi de développement front-end avec une contrainte de temps d'une heure. L'objectif était de démontrer la capacité à :
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Reproduire rapidement une maquette
+Structurer proprement le code
+Utiliser efficacement Next.js et Tailwind CSS
+Créer des composants réutilisables
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📫 Contact
+Paul JEANROY
