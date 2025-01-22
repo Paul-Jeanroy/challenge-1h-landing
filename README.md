@@ -1,38 +1,41 @@
-🚀 Challenge 1H - Landing Page
-Un défi de reproduction de maquette réalisé en 1 heure chrono ! 
-Cette landing page moderne a été développée avec Next.js 14 et Tailwind CSS, mettant en avant une structure de code propre et maintenable.
+# 🚀 Challenge 1H - Landing Page
 
-🎯 Le Défi
+Un défi de reproduction de maquette réalisé en 1 heure chrono ! Cette landing page moderne a été développée avec Next.js et Tailwind CSS, mettant en avant une structure de code propre et maintenable.
 
-⏱️ Temps imparti : 1 heure
-🎨 Objectif : Reproduire fidèlement une maquette
-✨ Animations et transitions fluides
+## 🎯 Le Défi
 
-🛠️ Technologies Utilisées
+- ⏱️ Temps imparti : 1 heure 
+- 🎨 Objectif : Reproduire fidèlement une maquette 
+- ✨ Animations et transitions fluides
 
-Next.js 14
-Tailwind CSS
-TypeScript
+## 🛠️ Technologies Utilisées
 
-🌟 Fonctionnalités
+- Next.js
+- Tailwind CSS 
+- TypeScript
 
-✨ Design moderne et épuré
-🔄 Transitions fluides
-💫 Animations au hover
-🎨 Dégradés et effets visuels
-🔍 Code optimisé et maintenable
+## 🌟 Fonctionnalités
 
-🎨 Aperçu
-![image](https://github.com/user-attachments/assets/843f8cd4-b8e7-48e1-8743-00044a19c021)
+- ✨ Design moderne et épuré 
+- 🔄 Transitions fluides 
+- 💫 Animations au hover 
+- 🎨 Dégradés et effets visuels 
+- 🔍 Code optimisé et maintenable
+
+## 🎨 Aperçu
+
+![image](https://github.com/user-attachments/assets/ce574e96-e045-430c-b82b-cdebfb731ed3)
 
 
-📝 Notes
+## 📝 Notes 
+
 Ce projet a été réalisé dans le cadre d'un défi de développement front-end avec une contrainte de temps d'une heure. L'objectif était de démontrer la capacité à :
 
-Reproduire rapidement une maquette
-Structurer proprement le code
-Utiliser efficacement Next.js et Tailwind CSS
-Créer des composants réutilisables
+- Reproduire rapidement une maquette 
+- Structurer proprement le code 
+- Utiliser efficacement Next.js et Tailwind CSS 
+- Créer des composants réutilisables
 
-📫 Contact
+## 📫 Contact 
+
 Paul JEANROY
