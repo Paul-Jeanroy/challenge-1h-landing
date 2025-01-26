@@ -9,7 +9,7 @@ export default function Header() {
             <h1 className="flex text-xl italic cursor-pointer">Paul Jeanroy</h1>
             <Navigation />
             <Button>
-                Demander un devis
+                Contact
             </Button>
         </header>
     );

@@ -1,11 +1,9 @@
+"use client";
+
 const navItems = [
     { label: "Accueil", href: "#" },
     { label: "Mes services", href: "#services" },
-    { label: "Processus", href: "#processus" },
     { label: "Portfolio", href: "#portfolio" },
-    { label: "Témoignages", href: "#temoignages" },
-    { label: "FAQ", href: "#faq" },
-    { label: "Contact", href: "#contact" },
 ];
 
 export default function Navigation() {

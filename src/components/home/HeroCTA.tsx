@@ -1,10 +1,12 @@
+"use client";
+
 import Button from "../ui/Button";
 import Image from "next/image";
 
 export default function HeroCTA() {
     return (
         <>
-            <div className="max-w-4xl mx-auto mt-[50px]">
+            <div className="max-w-4xl mx-auto mt-[50px] flex flex-col gap-[50px]">
                 <h1 className="text-6xl font-semibold line text-center tracking-tighter leading-[60px] bg-gradient-to-t from-[#9E9E9E] to-[#F9F9F9] bg-clip-text text-transparent">
                     Un site internet n&apos;est pas juste une vitrine, c&apos;est le moteur de votre réussite en ligne
                 </h1>
@@ -16,12 +18,12 @@ export default function HeroCTA() {
                         clients idéaux.
                     </p>
                 </div>
-                <div className="w-full mt-[50px] flex justify-center">
+                <div className="w-full flex justify-center mb-[50px]">
                     <Button>Lancez votre projet aujourd&apos;hui</Button>
                 </div>
             </div>
 
-            <div className="w-full mt-[50px] items-center flex justify-center">
+            <div className="w-full items-center flex justify-center">
                 <Image
                     src={"/img_fond.jpg"}
                     width={1000}
